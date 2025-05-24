@@ -8,5 +8,6 @@ An introduction week, we learn about what MLOps and and why is it important. We 
 
 ### Week 2 (19-26 May 2025)
 
+In Progress
 
 ## Project (24 June - 8 July 2025)
