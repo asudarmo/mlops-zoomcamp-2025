@@ -18,8 +18,9 @@ In the second week, we learn the fundamentals of experiment tracking and model l
 
 ### Module 3 (27 May - 10 June 2025)
 
-In progress
+(In progress)
 
-### Week 
+I will be using Airflow 3.0 to orchestrate model training pipeline. 
+
 
 ## Project (24 June - 8 July 2025)
